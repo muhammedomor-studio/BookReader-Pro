@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.muhammedomor.bookreader.pro',
-  appName: 'BookReader',
+  appName: 'BookReader Pro',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
